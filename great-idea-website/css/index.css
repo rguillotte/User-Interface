@@ -91,3 +91,29 @@ header .logo {
 	margin-left: 75px;
 	margin-top: 25px;
 }
+
+.cta-text {
+	display: inline-block;
+	font-size: 75px;
+	text-align: center;
+	padding: 0 110px 0 70px;
+	
+}
+
+.cta img {
+	display: inline-block;
+	margin-top: 50px;
+}
+
+.cta .cta-text button {
+	background: white;
+	vertical-align: top;
+	padding: 5px 35px;
+	font-size: 15px;
+	border: 1px solid black;
+}
+
+.cta .cta-text button:hover {
+	background: black;
+	color: white;
+}
